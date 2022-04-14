@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.intabia.spring.boot.starter.minio.MinIOConfiguration
